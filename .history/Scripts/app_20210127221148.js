@@ -5,6 +5,9 @@
 //Closure - limits scope leak
 
 "use strict";
+
+
+
 (function()
 {
     function displayHome()
